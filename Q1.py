@@ -4,5 +4,5 @@
 def multiple(x):
 	return True if x % 3 != 0 and x % 7 ==0 else False
 
-print(multiple(20))
+print(multiple(40))
 print(multiple(7))
